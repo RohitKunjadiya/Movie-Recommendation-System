@@ -1,5 +1,7 @@
 🎬 Movie Recommendation System
 
+Dataset Link: https://www.kaggle.com/datasets/amanbarthwal/imdb-movies-data
+
 A content-based movie recommendation system developed using Python. 
 This system uses the TF-IDF Vectorizer to convert movie descriptions into numerical vectors and applies cosine similarity to calculate the similarity between movies. 
 It then recommends similar movies based on a selected movie.
